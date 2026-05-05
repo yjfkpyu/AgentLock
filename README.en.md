@@ -3,6 +3,18 @@
 > **AgentLock** is an AI-native documentation template system for software projects.  
 > It keeps coding agents aligned with the current truth of your codebase: scope, source-of-truth docs, feature state, doc-code ownership, validation rules, and safe handoff context across sessions.
 
+<p align="center">
+  <strong>Give your AI coding agent a durable project memory.</strong><br>
+  Stop letting AI code from stale docs.
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-1f8f4d.svg"></a>
+  <img alt="Templates" src="https://img.shields.io/badge/templates-zh--CN%20%7C%20en--US-0f766e.svg">
+  <img alt="AI Native" src="https://img.shields.io/badge/AI--native-docs--as--code-111827.svg">
+  <img alt="Validation" src="https://img.shields.io/badge/validation-zero--dependency-2563eb.svg">
+</p>
+
 [中文](README.md) · [Chinese Template](templates/zh-CN/README.md) · [English Template](templates/en-US/README.md) · [MIT License](LICENSE)
 
 ![AgentLock infographic](assets/agentlock-infographic.svg)
@@ -19,6 +31,8 @@ AgentLockDoc is an open-source template repository. The repository root explains
 | [templates/en-US](templates/en-US) | English | Copy the full contents into an English-language project |
 
 The GitHub repository can be named **AgentLockDoc**. The product / methodology name is **AgentLock**.
+
+If AgentLock helps your AI coding agent stop guessing from stale docs, a star helps more developers discover it.
 
 ---
 

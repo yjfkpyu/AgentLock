@@ -3,6 +3,18 @@
 > **AgentLock** 是一套为 AI 编程设计的项目文档模板系统。  
 > 它帮助 coding agent 始终对齐项目的当前真相：范围、权威文档、功能状态、doc-code 归属、验证规则，以及跨会话交接上下文。
 
+<p align="center">
+  <strong>给 AI 编程 Agent 一份稳定的项目记忆。</strong><br>
+  Stop letting AI code from stale docs.
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-1f8f4d.svg"></a>
+  <img alt="Templates" src="https://img.shields.io/badge/templates-zh--CN%20%7C%20en--US-0f766e.svg">
+  <img alt="AI Native" src="https://img.shields.io/badge/AI--native-docs--as--code-111827.svg">
+  <img alt="Validation" src="https://img.shields.io/badge/validation-zero--dependency-2563eb.svg">
+</p>
+
 [English](README.en.md) · [中文模板](templates/zh-CN/README.md) · [English Template](templates/en-US/README.md) · [MIT License](LICENSE)
 
 ![AgentLock 信息图](assets/agentlock-infographic.svg)
@@ -19,6 +31,8 @@ AgentLockDoc 是一个开源文档模板仓库。根目录用于介绍项目、�
 | [templates/en-US](templates/en-US) | English | Copy the full contents into your project root or documentation-template directory |
 
 仓库名可以使用 **AgentLockDoc**；项目品牌名是 **AgentLock**。
+
+如果 AgentLock 能帮助你的 AI 编程 Agent 少走弯路，欢迎点一个 Star，让更多开发者发现它。
 
 ---
 
