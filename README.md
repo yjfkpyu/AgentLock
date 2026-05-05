@@ -5,6 +5,8 @@
 
 [English](README.en.md) · [中文模板](templates/zh-CN/README.md) · [English Template](templates/en-US/README.md) · [MIT License](LICENSE)
 
+![AgentLock 信息图](assets/agentlock-infographic.svg)
+
 ---
 
 ## 这是什么

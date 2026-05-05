@@ -5,6 +5,8 @@
 
 [中文](README.md) · [Chinese Template](templates/zh-CN/README.md) · [English Template](templates/en-US/README.md) · [MIT License](LICENSE)
 
+![AgentLock infographic](assets/agentlock-infographic.svg)
+
 ---
 
 ## What This Repository Contains
