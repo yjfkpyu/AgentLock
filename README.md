@@ -136,6 +136,10 @@ cp -R templates/en-US /path/to/your-project/agentlock-docs
 
 ---
 
+### 最简单的用法
+
+直接将模版里面的所有文件复制到项目根目录，然后让大模型阅读一遍文档即可。
+
 ## 使用 AgentLock 的收益
 
 ### 对个人开发者
